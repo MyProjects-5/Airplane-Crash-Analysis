@@ -24,7 +24,7 @@ Tableau for data visualization and creation of interactive dashboards.
 # 📌Presentation Link:
 https://drive.google.com/file/d/1E7eGRYCKN13czKwJzkyH-VATprZJEGa-/view?usp=drivesdk
 
-# 📌Dashboard Link:
+# 📌Live Dashboard:
 https://public.tableau.com/views/AirplaneCrashAnalysis_17142097297940/AirplaneCrashAnalysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 # 📌Output:
