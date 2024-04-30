@@ -21,11 +21,14 @@ In conclusion, our Tableau analysis of airplane crashes has provided valuable in
 # 📌Tools Used:
 Tableau for data visualization and creation of interactive dashboards.
 
+# Live Dashboard:
+https://public.tableau.com/views/AirplaneCrashAnalysis_17142097297940/AirplaneCrashAnalysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
 # Presentation Link:
 https://drive.google.com/file/d/1E7eGRYCKN13czKwJzkyH-VATprZJEGa-/view?usp=drivesdk
 
-# Live Dashboard:
-https://public.tableau.com/views/AirplaneCrashAnalysis_17142097297940/AirplaneCrashAnalysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+# Project PPT Link:
+https://docs.google.com/presentation/d/1vPFYzAMIVj6WNu3vURnvm5vTGC740fJs/edit?usp=drivesdk&ouid=104796686336760154932&rtpof=true&sd=true 
 
 # Output:
 ![Screenshot 2024-04-30 135624](https://github.com/MyProjects-5/Airplane-Crash-Analysis/assets/140932670/ac5bd685-5d6b-430a-b4fc-4067c67fa1e3)
