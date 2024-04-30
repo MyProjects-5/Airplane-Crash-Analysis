@@ -40,5 +40,7 @@ https://drive.google.com/file/d/16NrfWQY_mVxeSeBncyncscGmBo-xJsHj/view?usp=drive
 https://github.com/MyProjects-5/Airplane-Crash-Analysis/assets/140932670/b3af4d5d-d718-4bbf-b28e-88467bec8c0e
 
 # Presentation Vedio:
+https://github.com/MyProjects-5/Airplane-Crash-Analysis/assets/140932670/2e71edfe-b86f-42cc-a485-a1457c29375e
+
 
 
