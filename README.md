@@ -8,7 +8,7 @@ The objective of an airplane crash analysis presentation is to delve into the ca
 Certainly! The presentation aims to dissect the intricate factors behind airplane crashes, offering insights to enhance safety protocols, educate stakeholders, and advocate for proactive measures to prevent future incidents.
 
 
-# 📌Key Feature:
+# 📌Key Features:
 1. **Data Exploration:** Utilize Tableau visuals to explore and understand the structure of airplane crash data, including details such as location, aircraft type, and fatalities.
 2. **Major-Incidents Analysis:** Analyze trends in major airplane incidents, focusing on factors such as fatalities, aircraft types, and causes to identify patterns and risk factors.
 3. **Region Analysis:** Investigate region-wise patterns of airplane crashes to understand geographical variations and potential areas of heightened risk.
