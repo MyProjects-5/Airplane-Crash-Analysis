@@ -1,9 +1,9 @@
 # Airplane Crash Analysis Tableau 
 
-# Overview :-
+**Overview :-**
 This project, part of my Mentorness internship, aims to analyze airplane crashes using district-wise and year-wise data. The dataset provides insights into various aspects of airplane accidents, including locations, fatalities, aircraft types, and causes across different years and regions. Leveraging Tableau, the goal is to develop interactive visualizations that uncover trends, identify risk factors, and inform safety measures for the aviation industry.
 
-# Objective :-
+**Objective :-**
 The objective of an airplane crash analysis presentation is to delve into the causes of crashes, improve safety measures, inform stakeholders about investigation findings, highlight prevention strategies, and raise awareness about the importance of continuous improvement in aviation safety.
 Certainly! The presentation aims to dissect the intricate factors behind airplane crashes, offering insights to enhance safety protocols, educate stakeholders, and advocate for proactive measures to prevent future incidents.
 
