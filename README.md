@@ -9,11 +9,11 @@ Certainly! The presentation aims to dissect the intricate factors behind airplan
 
 
 # 📌 Key Features :-
-1. **Data Exploration:** Utilize Tableau visuals to explore and understand the structure of airplane crash data, including details such as location, aircraft type, and fatalities.
-2. **Major-Incidents Analysis:** Analyze trends in major airplane incidents, focusing on factors such as fatalities, aircraft types, and causes to identify patterns and risk factors.
-3. **Region Analysis:** Investigate region-wise patterns of airplane crashes to understand geographical variations and potential areas of heightened risk.
-4. **Seasonal Analysis:** Explore seasonal patterns in airplane crashes, considering factors such as weather conditions and peak travel periods.
-5. **Operator Analysis:** Analyze the performance of different airline operators in terms of incident rates, fatalities, and safety records to identify areas for improvement.
+1. **Data Exploration :-** Utilize Tableau visuals to explore and understand the structure of airplane crash data, including details such as location, aircraft type, and fatalities.
+2. **Major-Incidents Analysis :-** Analyze trends in major airplane incidents, focusing on factors such as fatalities, aircraft types, and causes to identify patterns and risk factors.
+3. **Region Analysis :-** Investigate region-wise patterns of airplane crashes to understand geographical variations and potential areas of heightened risk.
+4. **Seasonal Analysis :-** Explore seasonal patterns in airplane crashes, considering factors such as weather conditions and peak travel periods.
+5. **Operator Analysis :-** Analyze the performance of different airline operators in terms of incident rates, fatalities, and safety records to identify areas for improvement.
 
 # 📌 conclusion :-
 In conclusion, our Tableau analysis of airplane crashes has provided valuable insights into historical trends, geographical distributions, operator performances, aircraft types, and route safety considerations. These findings underscore the importance of prioritizing safety measures, enhancing regulatory frameworks, and fostering collaboration to ensure safer air travel for all.
