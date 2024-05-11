@@ -7,17 +7,17 @@ This project, part of my Mentorness internship, aims to analyze airplane crashes
 The objective of an airplane crash analysis presentation is to delve into the causes of crashes, improve safety measures, inform stakeholders about investigation findings, highlight prevention strategies, and raise awareness about the importance of continuous improvement in aviation safety.
 Certainly! The presentation aims to dissect the intricate factors behind airplane crashes, offering insights to enhance safety protocols, educate stakeholders, and advocate for proactive measures to prevent future incidents.
 
-### 📌 Key Features :-
+## 📌 Key Features :-
 1. **Data Exploration :-** Utilize Tableau visuals to explore and understand the structure of airplane crash data, including details such as location, aircraft type, and fatalities.
 2. **Major-Incidents Analysis :-** Analyze trends in major airplane incidents, focusing on factors such as fatalities, aircraft types, and causes to identify patterns and risk factors.
 3. **Region Analysis :-** Investigate region-wise patterns of airplane crashes to understand geographical variations and potential areas of heightened risk.
 4. **Seasonal Analysis :-** Explore seasonal patterns in airplane crashes, considering factors such as weather conditions and peak travel periods.
 5. **Operator Analysis :-** Analyze the performance of different airline operators in terms of incident rates, fatalities, and safety records to identify areas for improvement.
 
-### 📌 Conclusion :-
+## 📌 Conclusion :-
 In conclusion, our Tableau analysis of airplane crashes has provided valuable insights into historical trends, geographical distributions, operator performances, aircraft types, and route safety considerations. These findings underscore the importance of prioritizing safety measures, enhancing regulatory frameworks, and fostering collaboration to ensure safer air travel for all.
 
-### 🛠️ Tools Used :-
+## 🛠️ Tools Used :-
 Tableau for data visualization and creation of interactive dashboards.
 
 # Live Dashboard :-
