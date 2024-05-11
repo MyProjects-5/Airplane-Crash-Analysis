@@ -15,7 +15,7 @@ Certainly! The presentation aims to dissect the intricate factors behind airplan
 4. **Seasonal Analysis :-** Explore seasonal patterns in airplane crashes, considering factors such as weather conditions and peak travel periods.
 5. **Operator Analysis :-** Analyze the performance of different airline operators in terms of incident rates, fatalities, and safety records to identify areas for improvement.
 
-## 📌 conclusion :-
+## 📌 𝐂𝐨𝐧𝐜𝐥𝐮𝐬𝐢𝐨𝐧 :-
 In conclusion, our Tableau analysis of airplane crashes has provided valuable insights into historical trends, geographical distributions, operator performances, aircraft types, and route safety considerations. These findings underscore the importance of prioritizing safety measures, enhancing regulatory frameworks, and fostering collaboration to ensure safer air travel for all.
 
 ## 🛠️ Tools Used :-
@@ -39,7 +39,7 @@ https://drive.google.com/file/d/16NrfWQY_mVxeSeBncyncscGmBo-xJsHj/view?usp=drive
 ## DashBoard Vedio :-
 https://github.com/MyProjects-5/Airplane-Crash-Analysis/assets/140932670/b3af4d5d-d718-4bbf-b28e-88467bec8c0e
 
-### Presentation Vedio :-
+## Presentation Vedio :-
 https://github.com/MyProjects-5/Airplane-Crash-Analysis/assets/140932670/2e71edfe-b86f-42cc-a485-a1457c29375e
 
 
