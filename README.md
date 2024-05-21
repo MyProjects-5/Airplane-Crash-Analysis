@@ -26,7 +26,7 @@ https://public.tableau.com/views/AirplaneCrashAnalysis_17142097297940/AirplaneCr
 # Presentation Link :-
 https://drive.google.com/file/d/1E7eGRYCKN13czKwJzkyH-VATprZJEGa-/view?usp=drivesdk
 
-# Output :-
+# Screenshot of the Analysis :-
 ![Screenshot 2024-04-30 135624](https://github.com/MyProjects-5/Airplane-Crash-Analysis/assets/140932670/ac5bd685-5d6b-430a-b4fc-4067c67fa1e3)
 
 # Project PPT Link :-
