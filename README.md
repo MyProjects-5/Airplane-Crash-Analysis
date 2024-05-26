@@ -1,4 +1,4 @@
-# Airplane Crash Analysi
+# Airplane Crash Analysis
 
 **Overview :-**
 This project, part of my Mentorness internship, aims to analyze airplane crashes using district-wise and year-wise data. The dataset provides insights into various aspects of airplane accidents, including locations, fatalities, aircraft types, and causes across different years and regions. Leveraging Tableau, the goal is to develop interactive visualizations that uncover trends, identify risk factors, and inform safety measures for the aviation industry.
